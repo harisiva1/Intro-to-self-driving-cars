@@ -21,7 +21,7 @@ Project_6 - Reconstructing Trajectory
 
 Project_7 - Traffic light Classifier
 
-##Project_0_Joy Ride
+## Project_0_Joy Ride
 
 Jump into writing code that controls a simulated vehicle. Send throttle and steering commands to the car to try and get it to navigate around a test track.
 
