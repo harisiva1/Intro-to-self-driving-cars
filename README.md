@@ -1,22 +1,29 @@
 # Intro-to-self-driving-cars
 
-Intro
+## Intro
 This directory contains all the projects I completed for intro to self driving car nano degree offered by updacity.
 
-Table of Contents
+**Table of Contents**
+
 Project_0_Joy Ride
+
 Project_1_2D_Histogram_Filter_in _Python
+
 Project_2_Implement_a_Matrix_Class
+
 Project_3_Translate_Python_to_C++
+
 Project_4_Optimize_Histogram_Filter
+
 Project_5_Planning_an_Optimal_Path
+
 Project_6_Trajectory_Visualizer
+
 Project_7_Image_Classifier_from_Scratch
-Project_0_Joy Ride
+
+##Project_0_Joy Ride
+
 Jump into writing code that controls a simulated vehicle. Send throttle and steering commands to the car to try and get it to navigate around a test track.
-
-
-
 
 
 Project_1_2D_Histogram_Filter_in _Python
